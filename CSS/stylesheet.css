@@ -1,0 +1,31 @@
+/* AURTHOR: WILLIAM TWOMEY */
+
+/* CHANGING THE FONT TO MAKE THE PAGE LOOK APPEALING AND CENTRING THE TEXT */
+html {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* BACKGROUNG COLOUR SETTING */
+body {
+    background-color: lightblue;
+}
+
+/* ADJUSTING THE LOGO */
+.logo {
+    margin: auto;
+    background-color: #fff;
+    display: block;
+    height: 300px;
+    width: 600px;
+    border: 2px solid red;
+    border-style: dashed;
+    
+}
+
+/* ADJUSTING THE VIDEO */
+iframe {
+    height: 315px;
+    width: 560px;
+    border: 0;
+}
