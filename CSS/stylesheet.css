@@ -20,7 +20,11 @@ body {
     width: 600px;
     border: 2px solid red;
     border-style: dashed;
-    
+}
+
+.logo img {
+    height: 300px;
+    width: 600px;
 }
 
 /* ADJUSTING THE VIDEO */
